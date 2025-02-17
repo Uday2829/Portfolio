@@ -1,0 +1,28 @@
+.image{
+    height:200px;
+    width:300px;
+    padding:10px;
+    border:solid chocolate;
+    border-width:10px;
+}
+.div{
+    background-color:coral;
+    text-align:center;
+    border:solid brown;
+    border-width:10px;
+}
+.image2{
+    height:300px;
+    width:250px;
+    padding:10px;
+    border:solid chocolate;
+    border-width:10px;
+}
+.div2{
+    background-color:brown;
+    padding:20px;
+    padding-bottom:20px;
+}
+.text{
+    margin-left:10px;
+}
